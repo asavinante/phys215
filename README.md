@@ -27,3 +27,5 @@ The files in this repository are my solutions to the exercises in [Think Complex
 - [x] exercise 5.3
 - [ ] exercise 5.4
 - [ ] exercise 5.5
+
+Also included are the Python files for the modules thinkplot and thinkstats2 from the official Github repository for [ThinkStats2](https://github.com/AllenDowney/ThinkStats2). The provided modules were unmodified and were only used for the exercises.
